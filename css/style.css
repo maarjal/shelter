@@ -1,0 +1,32 @@
+h1 {
+  padding-left: 20px;
+}
+
+h3 {
+  padding: 20px;
+  text-align: center;
+}
+
+.yes {
+  text-decoration: underline;
+  font-weight: bolder;
+  color:green;
+}
+.dog {
+  float: left;
+  width: 25%;
+  text-align: justify;
+
+}
+
+.dog p {
+  padding: 20px;
+}
+
+.dog img {
+  width:80%;
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 300px;
+}
